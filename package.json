@@ -1,8 +1,8 @@
 {
 	"name": "css-variables-autocomplete",
-	"displayName": "'CSS Variables Autocomplete",
-	"version": "0.0.4",
-	"publisher": "css-variables-autocomplete",
+	"displayName": "CSS Variables Autocomplete",
+	"version": "0.0.2",
+	"publisher": "danileao",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/danileao/vscode-css-variables-autocomplete"
